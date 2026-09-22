@@ -70,7 +70,7 @@ opdb_id: "GweeP"
 * Shoot either ramp twice to light **Kaiju Battle** at the scoop. Subsequent battles require a shot to both ramps.
   * Use the flippers to select which monster you want to battle and follow the flashing arrows.
   * Winning battles allows you to *switch cities* at the scoop, to win more battles and attempt tier 2 battles, or progress to Planet X right away as soon as you've played all four objectives. 
- * Other tasks like *destroying the powerlines, tanks, and bridges* award bonus modes and points. These also light the *Destruction Jackpot* at the building and are also required for Planet X.
+* Other tasks like *destroying the powerlines, tanks, and bridges* award bonus modes and points. These also light the *Destruction Jackpot* at the building and are also required for Planet X.
 * Shoot the ramps and the building itself to destroy the building and light **Godzilla Multiball**.
   * Use the window inserts in front of the building to determine the number of hits remaining. Start Godzilla Multiball by shooting the building again.
   * During Godzilla Multiball, make lit shots for progressive jackpots. Score 6 jackpots to light the super jackpot at the building.
@@ -301,7 +301,7 @@ Pressing the right flipper when an Ally is lit cycles between any of the unlit o
 
 - **Rodan** - 2x Playfield for 60 seconds (75 seconds via **[Godzilla Powerup](#heading--powerups)** #6).
 - **Mothra** - Lights left outlane for Mothra Save. If the ball saver is already active, Mothra Save won't be qualified until it expires.
- - **Anguirus** - Action button adds a ball during any Multiball. Collected Anguirus activations stack over the course of the game.
+- **Anguirus** - Action button adds a ball during any Multiball. Collected Anguirus activations stack over the course of the game.
 
 ### Saucer Attack: {#heading--saucerattack}
 
@@ -428,6 +428,7 @@ Levels 4 through 7 of Godzilla Power-Up can only be qualified by first scoring a
 |#9|6|+2x **[Destruction Jackpot](#heading--destructionjp)**|Light All **[Allies](#heading--allies)**|
 |#10|6|**[Collect 10x Bonus](#heading--bonus)**|**[Monster Rampage +1x](#heading--monsterrampage)** |
 |#11|6|+3 Godzilla Powerups|Light **[King of the Monsters](#heading--kotm)** (if all three other *[wizard modes](#heading--miniwizardmodes)* played) |
+
 ### Godzilla Wallop: {#heading--wallop}
 
 If a mode is running, a strong shot to the exit of the building that passes through its entrance will award one lit shot, prioritizing those on the left side of the playfield. This is called the "Wallop shot" by the game. Further uses of Godzilla Wallop during the mode just award 1M. The first two times (in single-ball play) this will award a short ballsave.
@@ -459,21 +460,23 @@ Tail Whips count up and score awards during the game:
 ### Trains: {#heading--trains}
 
 Light Advance Train at the left ramp by shooting:
- - Scoop
- - Reverse building
+
+- Scoop
+- Reverse building
 - Captive ball when **["Attack Bridge"](#heading--bridgemb)** is lit
 
 Shoot the left ramp when “Advance Train” is lit to collect 1 train for 2 million points + 200K per train. Collecting Trains will also score awards.
 
 **Awards:**
- - 3 trains: +2 **[Godzilla Power-Up](#heading--powerups)**
- - 5 trains (Pro): Big Points (50M) 
- - 5 trains (Prem / LE): **Super Train Loops** 
- - 10 trains: +1x and Lights **[Destruction Jackpot](#heading--destructionjp)** 
+
+- 3 trains: +2 **[Godzilla Power-Up](#heading--powerups)**
+- 5 trains (Pro): Big Points (50M) 
+- 5 trains (Prem / LE): **Super Train Loops** 
+- 10 trains: +1x and Lights **[Destruction Jackpot](#heading--destructionjp)** 
 - 15, 25, 35, etc. trains: Big Points (50M)
 - 20, 30, 40, etc. trains: +2 **[Godzilla Power-Up](#heading--powerups)**
 
- **Super Train Loops:**  (Prem/LE only)
+**Super Train Loops:** (Prem/LE only)
 
 This timed mini-mode starts at the 5th train collected and takes priority over all other modes. Repeatedly "loop" shots to a single ramp to score big points, with each shot made without hitting any other switches adding multipliers to the value. Shooting the building ends the mode prematurely.
 - The building is set to the one-story lower height to facilitate looping either ramp. 
@@ -503,9 +506,9 @@ Collect mystery awards at the Maser Cannon standup target when flashing. Qualify
 - Spot **[Bridge Attack](#heading--bridgemb)**
 - Spot **[Tank](#heading--tankmb)**
 - Start **[Mechagodzilla Battle](#heading--mechamb)** (activates the Neo Barrier, only available once per game)
-- Start **[Hedorah](#heading--secret)** (see below)
+- Start **[Hedorah](#heading--hedorah)** (see below)
 
-### City Combos:
+### City Combos: {#heading--citycombos}
 
 Each of the 4 Cities has a set of unique combos, 3 combos on the Premium / LE and 2 on the Pro (note that Prem / LE exclusive combos require the building to be in Lock position). After completing 5 City Combos, an **[extra ball](#heading--extraballs)** will be awarded. City Combos that have not been collected yet can be viewed in the status report. City Combos score 5M, with a bonus of 10M for completing each city's set.
 
@@ -524,7 +527,7 @@ Each of the 4 Cities has a set of unique combos, 3 combos on the Premium / LE an
 |**Paris Combo 2**|Left Ramp|Right Ramp|Through Building|
 |**Paris Combo 3** (Prem / LE)|Left Ramp|Left Spinner|
 
-Secret Combos: {#heading--citycombos}
+### Secret Combos: {#heading--secret}
 
 There are 10 **secret combos** throughout the game. Each secret combo is worth 2,500,000. The secret combos are:
 
@@ -561,7 +564,7 @@ On the last ball of a game, the right outlane lights for Oxygen Destroyer. This 
 
 If time runs out, the flippers are killed and the ball drains; and if the ball drains during the countdown, there are no second chances - the Destroyer detonates as if time ran out.
 
-### Extra Balls:
+## Extra Balls: {#heading--extraballs}
 
 Extra balls are instantly awarded once any of the below tasks have been achieved.
 - **[Win 2 Kaiju Battles](#heading--raid)** 
@@ -570,7 +573,7 @@ Extra balls are instantly awarded once any of the below tasks have been achieved
 - Make 12 shots during **[Monster Rampage](#heading--monsterrampage)** the first time
 - Collect 5 **[City Combos](#heading--citycombos)**
 
-Bonus:
+## Bonus: {#heading--bonus}
 
 - **[Cities](#heading--cityselect)**: 750K
 - **[Tail Whips](#heading--tailwhips)**: 250K
@@ -579,11 +582,12 @@ Bonus:
 - **[Loops](#heading--loops)**: 150K
 - Bonus X (earned through *[conquering](#heading--cityselect)* Cities or as a **[Mystery Award](#heading--masercannon)**)
 
-## Mini-Wizard Modes: (#heading--miniwizardmodes)
+## Mini-Wizard Modes: {#heading--miniwizardmodes}
 
 There are three smaller wizard modes in this game:
 
 ### Monster Zero: {#heading--monsterzero}
+
 If the player scored the Super Jackpot during **[Godzilla Multiball](#heading--godzillamb)**, then chooses "Light Monster Zero" from **[Godzilla Power-Up](#heading--powerups)** Level 4 or 8, the next building shot will begin **Monster Zero**. To defeat Monster Zero, the player must successfully lock up to 3 balls in single-ball play, then take them on in a Multiball showdown. The mode starts with a 30 second ball saver, reduced to 10 seconds after each lock.
 
 - **Lighting Locks** - In order to qualify a lock, shots must be made to any shot with a green arrow; two shots are required for the first lock, then three, then four. Collecting enough of these shots lights the lock at the building and activates red inserts at all major shots for 30 seconds; making these shots adds points to the jackpot value, while successfully locking each ball advances the Super Jackpot multiplier to 3x, 5x, and finally 8x.
